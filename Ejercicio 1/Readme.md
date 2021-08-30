@@ -1,9 +1,11 @@
 # Tarjetería Española
 Funciones-TarjeteriaEspanola
 
-Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise.py` y que contiene el siguiente código:
+Modifica el siguiente código:
 
 ```python
+#escribe tu funcion abajo de esta linea
+
 def main():
   #escribe tu código abajo de esta línea
 
